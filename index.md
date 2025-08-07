@@ -90,7 +90,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 | REXQualis 6pcs Small Breadboard | What the item is used for | 6.66$ | <a href="https://www.amazon.com/Breadborad-Solderless-Breadboards-Distribution-Connecting/dp/B082VYXDF1/"> Link </a> |
 | WWZMDiB 6 Pcs Joystick Module | What the item is used for | 9.99$ | <a href="https://www.amazon.com/WWZMDiB-Dual-Axis-Joystick-Raspberry-PlayStation-2/dp/B0BX6CW5SP/"> Link </a> |
 | Avery Dennsion Electrical Tape | What the item is used for | 5.99$ | <a href="https://www.amazon.com/Avery-Dennison-General-Electrical-EE-100/dp/B09P16VMZT/"> Link </a> |
-
+| ELEGOO 120pcs Multicolored Dupont Wire | What the item is used for | 6.63$ | <a href="https://www.amazon.com/gp/product/B01EV70C78/ref=ox_sc_act_title_3?smid=A2WWHQ25ENKVJ1&psc=1"> Link </a> |
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
 - [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
